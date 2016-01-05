@@ -25,6 +25,4 @@ public class FizzBuzzTest {
     public  void put_5_return_Buzz(){
         assertEquals("Buzz",fizzbuzz.say(5));
     }
-
-
 }
