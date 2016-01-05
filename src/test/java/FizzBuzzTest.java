@@ -15,4 +15,10 @@ public class FizzBuzzTest {
     public  void put_2_return_2(){
         assertEquals("2",fizzbuzz.say(2));
     }
+
+
+    @Test
+    public  void put_3_return_Fizz(){
+        assertEquals("Fizz",fizzbuzz.say(3));
+    }
 }
