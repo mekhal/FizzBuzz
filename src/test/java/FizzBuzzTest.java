@@ -12,17 +12,22 @@ public class FizzBuzzTest {
     }
 
     @Test
-    public  void put_2_return_2(){
+    public void put_2_return_2(){
         assertEquals("2",fizzbuzz.say(2));
     }
 
     @Test
-    public  void put_3_return_Fizz(){
+    public void put_3_return_Fizz(){
         assertEquals("Fizz",fizzbuzz.say(3));
     }
 
     @Test
-    public  void put_5_return_Buzz(){
+    public void put_5_return_Buzz(){
         assertEquals("Buzz",fizzbuzz.say(5));
+    }
+
+    @Test
+    public void put_6_return_Fizz(){
+        assertEquals("Fizz",fizzbuzz.say(6));
     }
 }
