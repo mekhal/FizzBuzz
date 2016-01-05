@@ -1,7 +1,6 @@
-
 public class FizzBuzz {
 
-    public String say(int i) {
+    public String say(int number) {
         return "1";
     }
 }
