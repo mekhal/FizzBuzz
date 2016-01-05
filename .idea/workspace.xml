@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98b428ab-94ac-48e2-ae6d-948fd7371e5e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/FizzBuzz.class" afterPath="$PROJECT_DIR$/target/classes/FizzBuzz.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/FizzBuzzTest.class" afterPath="$PROJECT_DIR$/target/test-classes/FizzBuzzTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/FizzBuzz.java" afterPath="$PROJECT_DIR$/src/main/java/FizzBuzz.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/FizzBuzzTest.java" afterPath="$PROJECT_DIR$/src/test/java/FizzBuzzTest.java" />
@@ -43,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/FizzBuzzTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#182#183#0" expanded="true" />
@@ -56,6 +54,7 @@
                 <element signature="e#525#526#0" expanded="true" />
                 <element signature="e#573#574#0" expanded="true" />
                 <element signature="e#625#626#0" expanded="true" />
+                <element signature="e#725#726#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -65,7 +64,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/FizzBuzz.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.17085427">
-              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -93,8 +92,8 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Fizzbuzz.java" />
-        <option value="$PROJECT_DIR$/src/main/java/FizzBuzz.java" />
         <option value="$PROJECT_DIR$/src/test/java/FizzBuzzTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FizzBuzz.java" />
       </list>
     </option>
   </component>
@@ -501,15 +500,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FizzBuzzTest - 2559.01.05 at 12h 02m 58s.xml">
-      <configuration name="FizzBuzzTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzTest - 2559.01.05 at 12h 05m 55s.xml">
-      <configuration name="FizzBuzzTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzTest - 2559.01.05 at 12h 06m 40s.xml">
-      <configuration name="FizzBuzzTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FizzBuzzTest - 2559.01.05 at 12h 06m 52s.xml">
       <configuration name="FizzBuzzTest" configurationId="JUnit" />
     </history-entry>
@@ -529,6 +519,15 @@
       <configuration name="FizzBuzzTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="FizzBuzzTest - 2559.01.05 at 12h 15m 20s.xml">
+      <configuration name="FizzBuzzTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBuzzTest - 2559.01.05 at 12h 17m 34s.xml">
+      <configuration name="FizzBuzzTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBuzzTest - 2559.01.05 at 12h 18m 01s.xml">
+      <configuration name="FizzBuzzTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBuzzTest - 2559.01.05 at 12h 18m 35s.xml">
       <configuration name="FizzBuzzTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -583,7 +582,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/FizzBuzzTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#182#183#0" expanded="true" />
@@ -596,6 +595,7 @@
             <element signature="e#525#526#0" expanded="true" />
             <element signature="e#573#574#0" expanded="true" />
             <element signature="e#625#626#0" expanded="true" />
+            <element signature="e#725#726#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -603,7 +603,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/FizzBuzz.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.17085427">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
           <folding />
         </state>
       </provider>
