@@ -1,11 +1,11 @@
 public class FizzBuzz {
 
     public String say(int number) {
-        String resource = Integer.toString(number);
+        String result = Integer.toString(number);
         if (number == 3)
-            resource = "Fizz";
+            result = "Fizz";
         if (number == 5)
-            resource = "Buzz";
-        return resource;
+            result = "Buzz";
+        return result;
     }
 }
